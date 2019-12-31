@@ -1,0 +1,23 @@
+.nav {
+    background-color: #325d79;
+}
+
+.navlinks {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: flex-end;
+    padding: 15px;
+    box-shadow: 0px 3px 3px rgba(87,87,87, 0.4);
+    list-style: none;
+}
+
+.navlink {
+    color: #f7f7f7;
+    text-decoration: none;
+    margin: 10px;
+    padding: 5px 15px;
+}
+
+.navbrand {
+    margin-right: auto;
+}
